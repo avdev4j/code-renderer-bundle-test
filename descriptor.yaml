@@ -1,0 +1,5 @@
+code: code-renderer
+description: Code renderer bundle
+components:
+  fragments:
+    - fragments/prismjs_cdn_inclusions-descriptor.yaml
