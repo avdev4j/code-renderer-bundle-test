@@ -1,4 +1,4 @@
-<#assign wp=JspTaglibs["JspTaglibs["/aps-core"]"]>
+<#assign wp=JspTaglibs["/aps-core"]>
 <@wp.wp.info key="systemParam" paramName="applicationBaseURL" var="appUrl" />
 
 <html lang="en">
